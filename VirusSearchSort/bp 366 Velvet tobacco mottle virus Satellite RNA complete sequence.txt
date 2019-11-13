@@ -1,0 +1,35 @@
+LOCUS       MTVR2                    366 bp ss-RNA     circular VRL 21-MAY-2002
+DEFINITION  Velvet tobacco mottle virus Satellite RNA complete sequence.
+ACCESSION   J02439
+VERSION     J02439.1
+KEYWORDS    .
+SOURCE      Velvet tobacco mottle virus Satellite RNA
+  ORGANISM  Velvet tobacco mottle virus Satellite RNA
+            Viruses; Satellites; Satellite Nucleic Acids; Single stranded RNA
+            satellites; Circular single stranded RNA satellites.
+REFERENCE   1  (bases 1 to 366)
+  AUTHORS   Haseloff,J. and Symons,R.H.
+  TITLE     Comparative sequence and structure of viroid-like RNAs of two plant
+            viruses
+  JOURNAL   Nucleic Acids Res. 10 (12), 3681-3691 (1982)
+   PUBMED   7111020
+COMMENT     Roughly 50% of the RNA 2 molecules were 366 bp in length, the
+            remaining molecules were 365 bp in length [1].  [1] notes seven
+            open reading frames in the RNA 2.
+FEATURES             Location/Qualifiers
+     source          1..366
+                     /organism="Velvet tobacco mottle virus Satellite RNA"
+                     /mol_type="genomic RNA"
+                     /host="Nicotiana clevelandii"
+                     /db_xref="taxon:196095"
+                     /note="RNA2"
+     variation       107..109
+                     /note="gtc in 50% of RNA 2; gc in 50% of RNA 2"
+ORIGIN      
+        1 gttcctgccc ttggggactg atttttggtt cgcctggtcc gtgtccgtag tggatgtgta
+       61 tccactctga tgagtccgaa aggacgaaac ggatgtaccg cttcttgtct cgacctcgac
+      121 ctggactagt gatcgaggga ggctcaacct cacgcccgct gggtagatgt agtctcatac
+      181 tccaatgact tggggtcact gtgtaaaggt actacagagc tacgaccatg tgataggcgg
+      241 ggagctggac cctctcacca cctaggtagt gttgaaggtc gctagggagt caaggacgcc
+      301 cggcatcaga ggattgcaca ccaccggtat cacggagggc aactgctttc caggctggca
+      361 ggtaac

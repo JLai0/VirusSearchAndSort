@@ -1,0 +1,68 @@
+LOCUS       KR528557                1063 bp    DNA     circular VRL 16-AUG-2015
+DEFINITION  Hermit crab associated circular genome isolate I0085b, complete
+            genome.
+ACCESSION   KR528557
+VERSION     KR528557.1
+KEYWORDS    .
+SOURCE      Hermit crab associated circular genome
+  ORGANISM  Hermit crab associated circular genome
+            Viruses; ssDNA viruses; Circoviridae; unclassified Circoviridae.
+REFERENCE   1  (bases 1 to 1063)
+  AUTHORS   Rosario,K., Schenck,R.O., Harbeitner,R.C., Lawler,S.N. and
+            Breitbart,M.
+  TITLE     Novel circular single-stranded DNA viruses identified in marine
+            invertebrates reveal high sequence diversity and consistent
+            predicted intrinsic disorder patterns within putative structural
+            proteins
+  JOURNAL   Front Microbiol 6, 696 (2015)
+   PUBMED   26217327
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1063)
+  AUTHORS   Schenck,R.O., Harbeitner,R.C., Lawler,S.N., Rosario,K. and
+            Breitbart,M.
+  TITLE     Dir vct Submission
+  JOURNAL   Submitted (06-MAY-2015) College of Marine Science, University of
+            South Florida, 140 7th Avenue South, St. Petersburg, FL 33701, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.1.4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1063
+                     /organism="Hermit crab associated circular genome"
+                     /mol_type="genomic DNA"
+                     /isolate="I0085b"
+                     /host="hermit Crab"
+                     /db_xref="taxon:1692251"
+     stem_loop       join(10..15,1056..1061)
+                     /note="contains nonanucleotide motif"
+     CDS             38..904
+                     /codon_start=1
+                     /product="putative replication initiation protein"
+                     /protein_id="AKV62280.1"
+                     /translation="MISKRWCYTLNNYSEDDVVTMKAVPTTYHVLGKEVGTNGTPHIQ
+                     GFLTFKSNKRLSAMKKINARAHWEVAKGTSKQAADYCKKDGNFEELGSVPSQGKRTDL
+                     EDAAVMITAGESLKRVAEEHPTVVIKYHKGLSALKSLLSESRETDDVRGIWLHGPPGC
+                     GKSHLARTVSPYLKAQNKWWDGYANEEYVLIDDFDKGGKCLGHYLKLWADKYECTGEI
+                     KGATVALNHRKFIITSNYHPDEIFDDDSVLLEAITRRFSIRSCWHHSREADAVWFDSL
+                     TKKEAHAATANK"
+ORIGIN      
+        1 cagtattacc ctccacttcg tcacaaaata acaaacgatg atttctaaac gctggtgtta
+       61 cactcttaac aactactctg aggatgatgt cgttaccatg aaggcggttc ctaccacata
+      121 ccatgtgtta ggtaaggaag ttggtacaaa cggcacaccg catattcaag gctttttgac
+      181 tttcaagtcc aataaacgcc tctccgcaat gaagaagatc aatgcgcgag cgcattggga
+      241 ggttgctaaa ggaacgtcaa agcaagctgc tgattattgc aagaaggatg gaaatttcga
+      301 agaacttggc tccgtccctt ctcaaggaaa aaggaccgat cttgaagacg ctgcagtgat
+      361 gataaccgct ggggagtcac ttaaacgagt cgcggaagaa cacccaaccg tcgttatcaa
+      421 gtatcataaa ggcctctccg ctcttaaatc tcttctctcc gaatcccggg aaaccgacga
+      481 tgtacgtggg atctggctcc atggcccgcc agggtgtggt aaatcccatc ttgctcggac
+      541 cgtctccccc tatttgaagg ctcagaacaa atggtgggat ggctatgcta atgaagaata
+      601 tgtcctaatc gatgacttcg ataagggtgg taaatgtctc ggccactatc tgaagctctg
+      661 ggcagataaa tatgaatgta ctggtgaaat taaaggcgct actgtcgctc tgaaccatcg
+      721 aaaattcata atcacctcaa attaccatcc cgatgagatc tttgatgatg atagcgtact
+      781 cctggaagct atcactcgcc gtttctctat ccgctcctgc tggcatcact ctagggaagc
+      841 agacgcagtc tggttcgata gtctaacaaa aaaagaagcg cacgccgcaa cagccaataa
+      901 gtagaatgaa ttcgacagaa gatctactaa catacacatc ttatagagcg gaggacccac
+      961 tggaccgcac aaacgtctct gggaaaaggc gggaaacttc ccgccctctc aaaaactcct
+     1021 aaacaactca cgactgtaaa ttttgtaccg aagaatggag gat
+

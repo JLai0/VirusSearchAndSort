@@ -1,0 +1,104 @@
+LOCUS       KF373758                2169 bp    DNA     circular VRL 26-NOV-2013
+DEFINITION  Seal anellovirus 3, complete genome.
+ACCESSION   KF373758
+VERSION     KF373758.1
+KEYWORDS    .
+SOURCE      Seal anellovirus 3
+  ORGANISM  Seal anellovirus 3
+            Viruses; ssDNA viruses; Anelloviridae; unclassified Anelloviridae.
+REFERENCE   1  (bases 1 to 2169)
+  AUTHORS   Bodewes,R., Rubio Garcia,A., Wiersma,L.C., Getu,S., Beukers,M.,
+            Schapendonk,C.M., van Run,P.R., van de Bildt,M.W., Poen,M.J.,
+            Osinga,N., Sanchez Contreras,G.J., Kuiken,T., Smits,S.L. and
+            Osterhaus,A.D.
+  TITLE     Novel b19-like parvovirus in the brain of a harbor seal
+  JOURNAL   PLoS ONE 8 (11), E79259 (2013)
+   PUBMED   24223918
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2169)
+  AUTHORS   Bodewes,R., Rubio Garcia,A., Wiersma,L.C., Getu,S., Beukers,M.,
+            Schapendonk,C.M., van Run,P.R., van de Bildt,M.W., Poen,M.J.,
+            Osinga,N., Sanchez Contreras,G.J., Kuiken,T., Smits,S.L. and
+            Osterhaus,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2013) Viroscience, Erasmus Medical Centre, Dr
+            Molewaterplein 50, Rotterdam 3015GE, The Netherlands
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar v. 10
+            Sequencing Technology :: Sanger dideoxy sequencing; 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2169
+                     /organism="Seal anellovirus 3"
+                     /mol_type="genomic DNA"
+                     /isolation_source="lung"
+                     /host="Phoca vitulina; isolate 12-410"
+                     /db_xref="taxon:1427156"
+                     /country="Netherlands"
+                     /collection_date="26-Oct-2012"
+     CDS             177..428
+                     /codon_start=1
+                     /product="ORF2"
+                     /protein_id="AHA86832.1"
+                     /translation="MGERLPPLIAVSFDLIYQTDDHDYCIRFPGMDNNQIPLVRVKIE
+                     GAGWWSGFLICLQIVTQLAVLIYVTLNYINTKRPSGSSK"
+     CDS             481..1947
+                     /codon_start=1
+                     /product="ORF1"
+                     /protein_id="AHA86833.1"
+                     /translation="MAYRHRRPFRRYRRRYRRWRGRKVHHRRTWRPFHRFGWRRRWRH
+                     PRRGSAVVRITRPKKHKYITVTGWEPLGNCCVTDSAGAEAKPYEDLDKDVATWCTQNN
+                     NAVWHGTFGHHYLTWGLLVQRAQYYFCKFSSDYRGYDYLSFCGGYIWLPYLYAPYMFW
+                     LDPCIIDPQEKLMNFQLYKKDSSWFHPGIFMNRKGARFIPPSYQTYTHHLYKRLRVPR
+                     PPTWEGVYTIPAATQYILTHWAWTTVTTNTAFFDGACNQSGTTNTCEAVPWFMKGHQP
+                     AGKFAQKLTKWKTDTADGTKNLDCFGDPRSWWVNRRKYDDKSSTTCNTDNWGPFLPSK
+                     GTGTGVTKQYDSISFWFRYRFKFKVSGDSIYTRIPSRTATEVISEAPGPQSKIQARSI
+                     LKTRPPDLGDILAGDLDEDGILTDESLERIIRSHPGRQPAGVEADPDQLKQRRVRLRH
+                     DPGVRKRRLRRLLSGLGLGRRTQSGGEGPPPSPPHPWA"
+     CDS             1421..1981
+                     /codon_start=1
+                     /product="ORF3"
+                     /protein_id="AHA86834.1"
+                     /translation="MMINHQPHAIQTTGDPFYHQKGLVLVSQSNMTQFLFGFAIASNL
+                     RSLETLSTQESPAGQQRRSSVKRQDLSQKYRLAPYSRPDLQTLGTYLQETSTRTASSR
+                     MRVLNELLDLIQEDSQPEWKPIRTSSSKDVSDFDTTPGSESEDSDVSYLDWDWEDEPN
+                     PGGKGPPLVPPTPGPKAQGYPPHFLF"
+ORIGIN      
+        1 tataaaaaga aatggggtga cgaatggctg agttttctgc tgctggatgg ccaagagagc
+       61 tcatgtaagt agagagagcg ctcttggagc cggggcgggt gcaggaggcc tagagccgga
+      121 tcaaggggct tatcgggccg tgcgaccata cagcaggagg ggcaagatta tttattatgg
+      181 gggaaagact tccacctcta atagcggttt catttgatct catctatcaa accgatgatc
+      241 atgactactg tattcgtttt ccaggtatgg acaataacca aatacctctc gtgagggtga
+      301 aaatagaagg agctgggtgg tggtctggct ttttgatatg tctgcagatt gtgactcagc
+      361 tcgcggtcct gatctatgtc accctcaact atataaatac aaagaggcca agtggaagca
+      421 gcaagtaagc aaacttcaca gagaattctg tggctgcaat aattttctgg atcattttaa
+      481 atggcctaca ggcacaggag gccgttccgg aggtaccgga gaaggtaccg aagatggagg
+      541 ggccggaagg tccaccaccg acgtacctgg agacctttcc accgcttcgg ctggaggagg
+      601 aggtggagac atcccagacg aggatctgct gttgtaagga tcaccagacc caaaaaacat
+      661 aagtacatta ctgtaactgg gtgggagcct ctcggaaact gttgtgtgac agatagtgcg
+      721 ggtgcagagg caaaacctta tgaggattta gacaaagatg tagctacctg gtgtacacag
+      781 aataacaacg ctgtttggca tggtaccttt ggccaccact atctcacctg gggtctccta
+      841 gttcaaagag ctcaatatta cttttgcaag ttttcaagtg actatcgcgg ctatgactat
+      901 ctctcatttt gtggaggtta tatttggctc ccttatctct atgctcctta catgttctgg
+      961 ctggatcctt gtatcattga tccacaagag aaactcatga actttcaact ctacaaaaaa
+     1021 gattcgagtt ggtttcaccc aggtattttc atgaatagaa aaggagctag attcatacct
+     1081 ccttcctacc agacctacac acatcacctt tacaaaaggc taagagttcc aaggcctcca
+     1141 acatgggaag gtgtctacac aatacctgca gctacccaat acatcctgac acactgggcc
+     1201 tggacaacag tcaccaccaa cacagccttt ttcgatggtg catgcaacca gtcaggcacc
+     1261 acaaatacat gtgaagctgt tccctggttc atgaagggac accagccagc agggaaattc
+     1321 gctcagaaac tcaccaaatg gaaaacagac acagcagatg gaacaaaaaa cttagactgt
+     1381 ttcggtgacc ccagaagttg gtgggtgaat agaagaaaat atgatgataa atcatcaacc
+     1441 acatgcaata cagacaactg gggacccttt ttaccatcaa aagggactgg tactggtgtc
+     1501 acaaagcaat atgactcaat ttctttttgg tttcgctatc gcttcaaatt taaggtctct
+     1561 ggagactcta tctacacaag aatccccagc aggacagcaa cggaggtcat cagtgaagcg
+     1621 ccaggacctc agtcaaaaat acaggctcgc tccatactca agaccagacc tccagacctt
+     1681 ggggacatac ttgcaggaga cctcgacgag gacggcatcc tcacggatga gagtcttgaa
+     1741 cgaattatta gatctcatcc aggaagacag ccagccggag tggaagccga tccggaccag
+     1801 ctcaagcaaa gacgtgtccg acttcgacac gaccccgggg tcagaaagcg aagactccga
+     1861 cgtctcctat ctggattggg attgggaaga cgaacccaat ccggggggga agggcccccc
+     1921 cctagtcccc cccacccctg ggcctaaagc ccaggggtac ccacctcact tcctcttttg
+     1981 agctgtcaat aaaccgtgaa tgcggaacta aatgcaaatg tgtggtttct gtggttggct
+     2041 agggaaatcc tgggcggagc ctgccggagg cgtggtttca actgcttttt actttcattt
+     2101 tgggcagctc atgaatattc atgaggtgct cactctctgc gcatgcgcag ggagtcacat
+     2161 gaccaaagg
+//

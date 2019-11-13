@@ -1,0 +1,82 @@
+LOCUS       KM017740                1773 bp    DNA     linear   VRL 20-NOV-2014
+DEFINITION  Feline cyclovirus, complete genome.
+ACCESSION   KM017740
+VERSION     KM017740.1
+KEYWORDS    .
+SOURCE      Feline cyclovirus
+  ORGANISM  Feline cyclovirus
+            Viruses; ssDNA viruses; Circoviridae; unclassified Circoviridae.
+REFERENCE   1  (bases 1 to 1773)
+  AUTHORS   Zhang,W., Li,L., Deng,X., Kapusinszky,B., Pesavento,P.A. and
+            Delwart,E.
+  TITLE     Faecal virome of cats in an animal shelter
+  JOURNAL   J. Gen. Virol. 95 (PT 11), 2553-2564 (2014)
+   PUBMED   25078300
+REFERENCE   2  (bases 1 to 1773)
+  AUTHORS   Zhang,W., Li,L. and Delwart,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2014) Molecular virology, Blood Systems Research
+            Institute, 270 Masonic Ave., San Francisco, CA 94118, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 4.8.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1773
+                     /organism="Feline cyclovirus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="feces"
+                     /host="Felis catus"
+                     /db_xref="taxon:1530454"
+                     /country="USA"
+                     /collection_date="Oct-2013"
+     CDS             1..819
+                     /codon_start=1
+                     /product="rep protein"
+                     /protein_id="AII82237.1"
+                     /translation="MMMTIKNYKTTHEIGANTPLLEKKTLQQQEHHTFKDTCKYNINN
+                     LFLYRHFSTSKLFKTIKKQLGNEIHIEIARGDDYQNKDYCTKTDKEAWTWGVPIKQGQ
+                     CTDLKRACKAIKEGKSMKYICENFDDIYVRYWRGLYKLKETLAPPPERDFPTEVYYYY
+                     GEPGVGKSRRAYSEAKATNESIYYKPRGDWWDGYEQQPNVIIDDFYGWIKYDELLKIM
+                     DRYPYRVPVKGGYQIFNSKRIWITSNIPIDQLYKHSHFIPQAIERRCTKIEYMQ"
+     CDS             complement(827..1498)
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="AII82238.1"
+                     /translation="MRSRGVRMRRRFFVRRRYRKFFRPGYRALFRRYYRPYVRRPHNS
+                     ALNTVLLRPNWTDNILPTVAKTRHLLSFKFDDLPELEKFKSLFGYYRFVRFYTKCIPK
+                     VTVLQDNTSSGTYVAVPWHRYIDEASLEKINADDLLDLTRSKARRCNQVMYNSVVPAV
+                     VTNSNVLPNSTMRTITYRPWIKIDRDGTAVQHFGLLYAFPSDSLHITFQIVTRCYVQL
+                     RGYSV"
+ORIGIN      
+        1 atgatgatga ctataaaaaa ttacaagact acgcacgaaa ttggtgccaa tacgccatta
+       61 ttggaaaaga aaacgctcca acaacaggaa caccacacct tcaaggatac atgtaagtac
+      121 aatataaaca atttattcct ttataggcat ttctcaacat caaaattatt caaaacgata
+      181 aaaaaacaac taggaaatga aatacatatt gaaattgcac gaggtgatga ctaccaaaac
+      241 aaagactact gcacgaaaac cgacaaagaa gcatggacat ggggagtacc aattaaacaa
+      301 ggacaatgca cagatcttaa aagagcatgc aaggctataa aagaaggaaa aagtatgaaa
+      361 tatatatgcg aaaacttcga cgatatttat gttagatatt ggagaggtct gtacaagctt
+      421 aaagaaacgc ttgctccgcc accagaaaga gattttccaa cagaagttta ttactactat
+      481 ggtgaaccag gtgtgggaaa atcacgtaga gcttattcag aagccaaagc tacaaatgaa
+      541 tcaatttact acaaacccag aggagattgg tgggatggat acgaacaaca accaaatgtt
+      601 atcatcgacg atttctacgg atggatcaaa tacgacgaac tattaaaaat aatggataga
+      661 tacccataca gagtaccagt aaaaggagga taccaaattt ttaactcaaa aagaatttgg
+      721 ataacatcta atatccccat tgaccaatta tataaacatt cccatttcat tccccaagcc
+      781 atcgaaagac gatgtacaaa aattgaatat atgcaataaa tttattttaa acagaatatc
+      841 ctcttaattg aacataacaa cgggttacaa tttgaaaagt tatgtgaaga ctgtcacttg
+      901 gaaaagcata taataaacca aaatgttgca cagcagttcc atctcgatca atcttgatcc
+      961 atggcctgta ggttatagta cgcatagtag aattaggaag aacattagaa ttagtcacca
+     1021 cagcaggaac aacagagtta tacataacct gattgcaacg tcgagcttta gaacgagtta
+     1081 aatctaataa atcatcagca ttaatttttt ctaatgacgc ctcatcaata taacgatgcc
+     1141 atggaacagc tacataggtt ccggacgacg tattatcttg aagaacagta accttcggaa
+     1201 tacacttcgt ataaaatcga acaaagcgat aataaccgaa taacgactta aatttttcca
+     1261 actctggtaa atcgtcgaac ttaaaagata acaaatgacg agttttagca acagtaggca
+     1321 aaatattgtc tgtccaatta ggccgcaaca aaacagtatt aagagcagag ttatgaggcc
+     1381 tacgaacata tggccgataa taacgtctaa acaaggcgcg ataacccgga cgaaagaatt
+     1441 tacgataacg acgacgaaca aagaacctcc tacgcatacg aacaccacgt gaccgcatga
+     1501 cgaaatgaat aagtcataaa tgacggaagt taaaaataac caattcatta aaacaaacaa
+     1561 acaaccaata acaattagac cagctaccac ccccgcacaa acaccagttc tcgtccaacc
+     1621 aataataatt agaccagcta ccacccccgc acaaacacca gttctcgtcc gatatataaa
+     1681 cctatgttac gaagtggcgg taatactaat cgccacttcg ttaaaccatg aatgcacgag
+     1741 taaaaagatt ctgctttaca cttaataatt ata
+//

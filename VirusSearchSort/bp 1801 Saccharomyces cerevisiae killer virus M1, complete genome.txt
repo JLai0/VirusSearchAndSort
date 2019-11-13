@@ -1,0 +1,72 @@
+LOCUS       SCU78817                1801 bp    RNA     linear   VRL 29-JUL-1997
+DEFINITION  Saccharomyces cerevisiae killer virus M1, complete genome.
+ACCESSION   U78817
+VERSION     U78817.1
+KEYWORDS    .
+SOURCE      Saccharomyces cerevisiae killer virus M1
+  ORGANISM  Saccharomyces cerevisiae killer virus M1
+            Viruses; dsRNA viruses.
+REFERENCE   1  (bases 1 to 1801)
+  AUTHORS   Russell,P.J., Bennett,A.M., Love,Z. and Baggott,D.M.
+  TITLE     Cloning, sequencing and expression of a full-length cDNA copy of
+            the M1 double-stranded RNA virus from the yeast, Saccharomyces
+            cerevisiae
+  JOURNAL   Yeast 13 (9), 829-836 (1997)
+   PUBMED   9234671
+REFERENCE   2  (bases 1 to 1801)
+  AUTHORS   Russell,P.J., Bennett,A.M., Love,Z. and Baggott,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-1996) Biology Department, Reed College, 3203 S.
+            E. Woodstock Blvd., Portland, OR 97202, USA
+FEATURES             Location/Qualifiers
+     source          1..1801
+                     /organism="Saccharomyces cerevisiae killer virus M1"
+                     /mol_type="genomic RNA"
+                     /strain="TF325"
+                     /host="Saccharomyces cerevisiae"
+                     /db_xref="taxon:12450"
+                     /clone="pM1TF"
+     CDS             14..964
+                     /note="killer toxin K1"
+                     /codon_start=1
+                     /product="preprotoxin"
+                     /protein_id="AAC58005.1"
+                     /translation="MTKPTQVLVRSVSILFFITLLHLVVALNDVAGPAETAPVSLLPR
+                     EAPWYDKIWEVKDWLLQRATDGNWGKSITWGSFVASDAGVVIFGINVCKNCVGERKDD
+                     ISTDCGKQTLALLVSIFVAVTSGHHLIWGGNRPVSQSDPNGATVARRDISTVADGDIP
+                     LDFSALNDILNEHGISILPANASQYVKRSDTAEHTTSFVVTNNYTSLHTDLIHHGNGT
+                     YTTFTTPHIPAVAKRYVYPMCEHGIKASYCMALNDAMVSANGNLYGLAEKLFSEDEGQ
+                     WETNYYKLYWSTGQWIMSMKFIEESIDNANNDFEGCDTGH"
+ORIGIN      
+        1 gaaaaataaa gaaatgacga agccaaccca agtattagtt agatccgtca gtatattatt
+       61 tttcatcaca ttactacacc tagtcgtagc gctgaacgat gtggccggtc ctgcagaaac
+      121 agcaccagtg tcattactac ctcgtgaagc gccgtggtat gacaagatct gggaagtaaa
+      181 agattggcta ttacagcgtg ccacagatgg caattggggc aagtcgatca cctggggttc
+      241 attcgtagcg agcgatgcag gtgtagtaat ctttggtatc aatgtgtgta agaactgcgt
+      301 gggtgagcgt aaggatgata tcagtacgga ctgcggcaag caaacacttg ctttactagt
+      361 cagcattttt gtagcagtta catccggcca tcatcttata tggggtggta ataggccggt
+      421 gtcgcagtca gatcctaatg gcgctaccgt tgctcgtcgt gacatttcta ctgtcgcaga
+      481 cggggatatt ccactggact ttagtgcgtt gaacgacata ttaaatgaac atggtattag
+      541 tatactccca gctaacgcat cacaatatgt caaaagatca gacacagccg aacacacgac
+      601 aagttttgta gtgaccaaca actacacttc tttgcatacc gacctgattc atcatggtaa
+      661 tggaacatat accacgttta ccacacctca cattccagca gtggccaagc gttatgttta
+      721 tcctatgtgc gagcatggta tcaaggcctc atactgtatg gcccttaatg atgccatggt
+      781 gtcggctaat ggtaacctgt atggactagc agaaaagctg tttagtgagg atgagggaca
+      841 atgggagacg aattactata aattgtattg gagtactggc cagtggataa tgtcgatgaa
+      901 gtttattgag gaaagtattg ataacgccaa taatgacttt gaaggctgtg acacaggcca
+      961 ctagggcatc gtgtctgacc tctgatgcga taactcgacc ctacagagca ccgggctata
+     1021 tataatatag taggcacaaa ataaaataaa aattaaaaaa aaaaaaaaaa aaaaaaaaaa
+     1081 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     1141 aaaaaaaaaa aaaaaaaaaa aaaagaaaag agagagaaga agaagaagaa aaagaaaaaa
+     1201 caaaagaaac agaaaaagag agaacaggac aacaaacgca acaaaacaca aacacaagca
+     1261 cactcacctt gagtctaact ggtggcacgc agcatatctc accctgagac taactggcgg
+     1321 caggcgaccg tgagcataca gcatgcccca ctcgattcga gacgcgattc gcgctcgtag
+     1381 gtatcgagcg gctacgttga gctattatgg cagtgacatg cgattcgcgc actgccaaga
+     1441 tcagctcagc aaagttaaga ccagtatcgg atatggtaga ctactacaat tcgcacaggt
+     1501 atgagattct cagtctagtg tatggatgag tagttgagcc aatgaatcta gggtttaaat
+     1561 tactatgcat tgacatatag caggtacaag cgtagataat acttactagg ccccagccgg
+     1621 tacaccctgt attgaataaa tacgactatt tggccaggtc tggacggggc agtcgaatta
+     1681 ctaggttgag cacacacacg tgaatcacac aacataacag tgtaggaaca taatgtgcca
+     1741 ttcgtagtct gagacgccgc tagcctggtt taatgcaaca gcatagaaga aacacacatc
+     1801 a
+//

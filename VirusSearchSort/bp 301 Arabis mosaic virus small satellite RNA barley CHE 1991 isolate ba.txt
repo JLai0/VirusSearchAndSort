@@ -1,0 +1,42 @@
+LOCUS       GQ369531                 301 bp    RNA     circular VRL 01-AUG-2012
+DEFINITION  Arabis mosaic virus small satellite RNA barley/CHE/1991 isolate ba,
+            complete sequence.
+ACCESSION   GQ369531
+VERSION     GQ369531.1
+KEYWORDS    .
+SOURCE      Arabis mosaic virus small satellite RNA barley/CHE/1991
+  ORGANISM  Arabis mosaic virus small satellite RNA barley/CHE/1991
+            Viruses; Satellites; Satellite Nucleic Acids; Single stranded RNA
+            satellites; Circular single stranded RNA satellites.
+REFERENCE   1  (bases 1 to 301)
+  AUTHORS   Marmonier,A., Vigne,E., Komar,V., Demangeat,G., Besse,S.,
+            Gugerli,P. and Lemaire,O.
+  TITLE     Comparisons of genomic and pathological features among barley and
+            grapevine infecting-isolates of Arabis mosaic virus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 301)
+  AUTHORS   Marmonier,A., Vigne,E. and Lemaire,O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2009) UMR 1131, INRA, 28 rue de Herrlisheim,
+            Colmar, 68 68000, France
+FEATURES             Location/Qualifiers
+     source          1..301
+                     /organism="Arabis mosaic virus small satellite RNA
+                     barley/CHE/1991"
+                     /mol_type="genomic RNA"
+                     /isolate="ba"
+                     /host="winter barley cultivar Express"
+                     /db_xref="taxon:857288"
+                     /segment="RNA3-VI"
+                     /country="Switzerland"
+                     /collection_date="1991"
+                     /note="identical sequence found in winter barley cultivar
+                     Mannitou"
+ORIGIN      
+        1 gccggatgtg tatccgacct gatgatggcc cgaaagggcc gaaacagtac tgcgtatgcc
+       61 gacatgggca tgggagatag gtaaccaatc ctctggaatc tccaacgggt aatataccac
+      121 acaaggtgtg tttcgccgtt ccgcttcgct gttgcttgtg gtcattagcc ggactactgt
+      181 ctagcgccag tttacccggg ttacccaaag cttgcaaaaa gtggagggct accctgggca
+      241 ttttggccca gcggtaggtt cggttctttt tccaaagtac gaactaaccc tataaactgt
+      301 c
+//

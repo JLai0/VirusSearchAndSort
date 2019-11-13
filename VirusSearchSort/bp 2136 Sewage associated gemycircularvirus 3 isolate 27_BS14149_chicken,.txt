@@ -1,0 +1,104 @@
+LOCUS       KT862240                2136 bp    DNA     circular VRL 09-MAY-2016
+DEFINITION  Sewage associated gemycircularvirus 3 isolate 27_BS14149_chicken,
+            complete sequence.
+ACCESSION   KT862240
+VERSION     KT862240.1
+KEYWORDS    .
+SOURCE      Sewage associated gemycircularvirus 3
+  ORGANISM  Sewage associated gemycircularvirus 3
+            Viruses; unclassified viruses; unclassified Gemycircularvirus.
+REFERENCE   1  (bases 1 to 2136)
+  AUTHORS   Steel,O., Kraberger,S., Sikorski,A., Young,L.M., Catchpole,R.J.,
+            Stevens,A.J., Ladley,J.J., Coray,D.S., Stainton,D., Dayaram,A.,
+            Julian,L., van Bysterveldt,K. and Varsani,A.
+  TITLE     Circular replication-associated protein encoding DNA viruses
+            identified in the faecal matter of various animals in New Zealand
+  JOURNAL   Infect. Genet. Evol. 43, 151-164 (2016)
+   PUBMED   27211884
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2136)
+  AUTHORS   Steel,O., Kraberger,S., Sikorski,A. and Varsani,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2015) School of Biological Sciences, University
+            of Canterbury, Private Bag 4800, Christchurch 8140, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAbaser v. 4
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2136
+                     /organism="Sewage associated gemycircularvirus 3"
+                     /mol_type="genomic DNA"
+                     /isolate="27_BS14149_chicken"
+                     /isolation_source="feces"
+                     /host="Gallus gallus momesticus"
+                     /db_xref="taxon:1843761"
+                     /country="New Zealand"
+                     /collection_date="2012"
+     CDS             109..1026
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="ANC51569.1"
+                     /translation="MVYRRLSRRKSAYRPRSAKSRYGRKRTRSTRVRVSRRMRPMSTR
+                     SLLNRTSQKKRDNMLSYTNTTAADPFSTVYSATGAVMRFPVGQINPGEEFFYVWNATA
+                     RPGETSEGQRGSKIDTSLRTSSTIYAKGLREKITVETNNSAPWEWRRICFTSKDDFGE
+                     RDPASSTFFRQTSSGMVRMLSALSTGIYLQDELFEGARNVDWLSVFTAPLSRKNFSIK
+                     YDRTRTIRSTNNSGTIRNYKLWHPMEHNLAYQEEQVGESMTDQSVSVTGRVGMGNYYV
+                     IDMFRKHGNNDNDSTLTFTPEATFFWHEK"
+     CDS             complement(join(982..1385,1523..2114))
+                     /codon_start=1
+                     /product="replication associated protein"
+                     /protein_id="ANC51571.1"
+                     /translation="MTFRFAAKYGLLTYAQIGDRDVEEFGWRVSDMLGSLGAECIVGR
+                     ESHADGGLHIHAFFMFERKFQSRNVRVFDMDGCHPNIVRGYSTPEDGARYAIKEGDVI
+                     AGGLDVDSLGSSVAGSKTVWAQIILAESRDDFFAACAELAPRALLCSFTSLRCYADWK
+                     YREDPAPYRHPEDVSFDTSRFPELDRWVQDSLRGAQRGRRRSLILYGPTKLGKTLWAR
+                     SLGNHAYFGGLFSMDESIDDVDYAVFDDMQGGLKFFHSYKFWLGAQSQFYVTEKYKGK
+                     RLVHWGKPCIYLYNHNPLCDEGADHDWLLGNCDIVGLDADDSLLVPEEGSLGGER"
+     CDS             complement(1389..2114)
+                     /codon_start=1
+                     /product="RepA"
+                     /protein_id="ANC51570.1"
+                     /translation="MTFRFAAKYGLLTYAQIGDRDVEEFGWRVSDMLGSLGAECIVGR
+                     ESHADGGLHIHAFFMFERKFQSRNVRVFDMDGCHPNIVRGYSTPEDGARYAIKEGDVI
+                     AGGLDVDSLGSSVAGSKTVWAQIILAESRDDFFAACAELAPRALLCSFTSLRCYADWK
+                     YREDPAPYRHPEDVSFDTSRFPELDRWVQDSLRGAQRGKRCSLRSGSDVDSGFLPIHG
+                     SVPLGPIRLRRSDHSRMLRNANL"
+ORIGIN      
+        1 taatgttatt ctacctttca gatggtgtca gtgtcagcta tttatctata aaaagcccac
+       61 gccccaacac tcagctgccc ctaaattaaa tgcctcaaaa tccctcacat ggtctaccgg
+      121 cgcctatcaa gacgcaagtc tgcatatcga ccccgcagtg ccaagtcccg ctatggacgc
+      181 aagcggacaa gatccactcg ggtacgcgtg tcccgaagga tgcgacctat gtccacccgg
+      241 agtctcctca accggaccag tcagaagaag cgagacaaca tgttgtccta cactaataca
+      301 accgccgccg atcctttctc caccgtgtac tctgcaacgg gagcagtcat gcgatttcca
+      361 gtgggacaga ttaatccagg agaagaattt ttctacgtat ggaatgcaac cgcccgacca
+      421 ggagagacct ccgaaggcca acgaggatcg aagatcgaca cgtcactgcg cacctcctca
+      481 acaatttacg ccaagggatt acgcgagaaa atcactgtgg agacaaacaa ctccgccccc
+      541 tgggaatggc gccgcatatg ctttacctca aaggatgatt ttggggaacg tgatccagcc
+      601 tcctccacct tctttcgtca gacgtccagc ggtatggtgc gaatgctgtc cgcattgtca
+      661 accggaatat acctacagga cgaactattc gagggtgccc ggaatgttga ttggctgtca
+      721 gtgttcacag cccccttatc acggaagaat ttctccatca agtatgatcg aacccgtacc
+      781 attcgatcaa caaacaattc cggaacaatc cgaaactaca agttgtggca ccccatggaa
+      841 cataacctag cctatcaaga agagcaagtc ggtgagagta tgactgatca gtcagtttca
+      901 gtcacgggtc gagtaggaat gggcaactat tacgtcattg atatgttccg taaacacggg
+      961 aataacgata atgactccac cctaacgttc acccccgagg ctaccttctt ctggcacgag
+     1021 aagtgagtca tctgcgtcca gacccactat atcgcaattt cccagcaacc agtcatgatc
+     1081 cgcaccctcg tcacatagag ggttgtggtt gtacagatag atacagggct tgccccaatg
+     1141 aaccagtcgt ttccccttat acttttccgt tacgtaaaat tgtgattgtg cacccaacca
+     1201 aaatttgtaa ctgtgaaaaa acttaagtcc accctgcata tcgtcgaaaa cggcatagtc
+     1261 gacgtcatcg atggactcat ccatagaaaa caggccccca aagtaagcgt ggttgcctaa
+     1321 acttcgcgcc cacagtgttt tgcctagttt tgtgggtcca tacaagatga ggcttcttct
+     1381 tcggcctatt acaagttagc attacgtaac atcctggagt ggtccgagcg ccggaggcgg
+     1441 atcggaccta acggaaccga gccatgaatt ggcaaaaacc ccgagtcaac atcagaaccc
+     1501 gagcggagcg agcagcgctt acctctttga gcccctctaa gagaatcttg cacccatcga
+     1561 tcgagctcag gaaatcttga cgtgtcaaat gatacatcct ctgggtgtcg ataaggagct
+     1621 gggtcctctc tgtacttcca atcggcataa catcggagtg aggtgaatga acacagaagt
+     1681 gcccttggtg ccagttccgc acatgccgca aaaaagtcgt ctcgagactc cgccaggatg
+     1741 atttgagccc agacagtttt agatccagcc actgagcttc caagagagtc cacgtcgagt
+     1801 cctccagcaa taacgtcacc ctccttgatc gcgtagcgtg ctccatcttc aggagtgctg
+     1861 tagccacgga cgatatttgg atggcatcca tccatatcaa acacacggac atttcgtgat
+     1921 tggaacttcc gttcgaacat gaagaaagca tggatatgca gtcctccatc agcgtgagac
+     1981 tctcggccca cgatacactc cgctccaagc gatccaagca tgtcgctaac tctccacccg
+     2041 aactcctcca cgtctcggtc tccgatttgg gcatacgtga gtaatccata tttggcagcg
+     2101 aagcgaaaag tcatgtgaca gacactgaaa ggtaga
+//

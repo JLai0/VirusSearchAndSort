@@ -1,0 +1,162 @@
+LOCUS       JQ866297                2741 bp    DNA     circular VRL 04-APR-2013
+DEFINITION  French bean leaf curl virus-Kanpur isolate FbLCV-Kanpur segment
+            DNA-A, complete sequence.
+ACCESSION   JQ866297
+VERSION     JQ866297.1
+KEYWORDS    .
+SOURCE      French bean leaf curl virus-Kanpur
+  ORGANISM  French bean leaf curl virus-Kanpur
+            Viruses; ssDNA viruses; Geminiviridae; Begomovirus; unclassified
+            Begomovirus.
+REFERENCE   1  (bases 1 to 2741)
+  AUTHORS   Kamaal,N., Akram,M., Pratap,A. and Yadav,P.
+  TITLE     Characterization of a new begomovirus and a beta satellite
+            associated with the leaf curl disease of French bean in northern
+            India
+  JOURNAL   Virus Genes 46 (1), 120-127 (2013)
+   PUBMED   23054434
+REFERENCE   2  (bases 1 to 2741)
+  AUTHORS   Akram,M., Naimuddin and Yadav,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAR-2012) Division of Crop Protection, Indian
+            Institute of Pulses Research, Kalyanpur, Kanpur, UP 208024, India
+FEATURES             Location/Qualifiers
+     source          1..2741
+                     /organism="French bean leaf curl virus-Kanpur"
+                     /mol_type="genomic DNA"
+                     /isolate="FbLCV-Kanpur"
+                     /isolation_source="leaves"
+                     /host="Phaseolus vulgaris (French bean)"
+                     /db_xref="taxon:1200970"
+                     /segment="DNA-A"
+                     /country="India"
+                     /collection_date="2011"
+     gene            126..485
+                     /gene="AV2"
+     CDS             126..485
+                     /gene="AV2"
+                     /note="involved in movement"
+                     /codon_start=1
+                     /product="precoat protein"
+                     /protein_id="AFM77720.1"
+                     /translation="MWDPLLHDFPETVFGLRCMLAVKYLQLVEQSYSPDTLGYDLIRD
+                     LISVVRARRYAEATSRYANFSARMESTPPAELRLPLRCPCSCPYCNRHFKVKGVGQQA
+                     DEQEAQDLSNVQKPGCS"
+     gene            286..1059
+                     /gene="AV1"
+     CDS             286..1059
+                     /gene="AV1"
+                     /note="involved in encapsidation"
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="AFM77721.1"
+                     /translation="MPKRQADMPISVPGWKVRRRLNFDSPYAARAVVPIVTGISKSRA
+                     WANRPMNRKPRIYRMYRSPDVPKGCEGPCKVQSFESRHDVVHIGKVMCISDVTRGTGL
+                     THRVGKRFCVKSVYVLGKIWMDENIKTKNHTNSVMFFLVRDRRPVDKPQDFGEVFNMF
+                     DNEPSTATVKNMHRDRYQVLRKWHATVTGGQYASKEQALVKKFVRVNNYVVYNQQEAG
+                     KYENHSENALMLYMACTHASNPVYATLKIRIYFYDSVTN"
+     gene            complement(589..993)
+                     /gene="AC5"
+     CDS             complement(589..993)
+                     /gene="AC5"
+                     /codon_start=1
+                     /product="AC5"
+                     /protein_id="AFM77722.1"
+                     /translation="MSTCHIQHQSILTMILILASFLLVIHNIIINPNKFLDKSLLLGR
+                     VLTTGHRGMPLTKNLVTVTMHILNRSRTGLIIEHVEYLAEILGLVHWTTITYKEEHDA
+                     VGMVLGLDVFIHPYLAQNVNRLNTKTLTDPMS"
+     gene            complement(1056..1460)
+                     /gene="AC3"
+     CDS             complement(1056..1460)
+                     /gene="AC3"
+                     /codon_start=1
+                     /product="replication enhancement protein ReP"
+                     /protein_id="AFM77723.1"
+                     /translation="MDLRTGEFITAAQAENGAFIWTVPNPLYFRMTDHHSRPFLSNHD
+                     IITARIQFNYNLRKALGIHQCFLTFRIWTNSHLQIGRFLRVFRTQVLKYLDSLGVISI
+                     NNVIRAVNHVLWNVLTQTVYVDNSMIIKLNLY"
+     gene            complement(1201..1605)
+                     /gene="AC2"
+                     /allele="TrAp"
+     CDS             complement(1201..1605)
+                     /gene="AC2"
+                     /allele="TrAp"
+                     /codon_start=1
+                     /product="transcription activation protein TrAp"
+                     /protein_id="AFM77724.1"
+                     /translation="MRSSSPSNAHSTQVPIKVQHRIAKKKFRRRRVDLECGCSYFVAI
+                     SCHNHGFTHRGVHHCSSSREWRLYLDGSKSPIFQDDRPPQQAFPVEPRHNNGTNTVQL
+                     QPEESIGDSPMFPNLPHLDELTPSDWSFLKGI"
+     gene            complement(1502..2590)
+                     /gene="AC1"
+                     /locus_tag="Rep"
+     CDS             complement(1502..2590)
+                     /gene="AC1"
+                     /locus_tag="Rep"
+                     /codon_start=1
+                     /product="replication associated protein Rep"
+                     /protein_id="AFM77725.1"
+                     /translation="MPPKRFQINAKNYFITYPKCSLSKEEALSQLKNLETPTNKKFIK
+                     ICRELHENGEPHLHVLIQFEGKYKCQNQRFFDLVSPTRSAHFHPNIQGAKSSSDVKSY
+                     IDKDGDTLEWGDFQIDGRSARGGQQTANDAYAAALNAGSKSEALKILRELAPKDYVLQ
+                     FHNLNANLDRIFEPPMEVYISPFSSSSFDRVPEELEEWACENVVDAAARPLRPVSIVV
+                     EGDSRTGKTMWARSLGPHNYLCGHLDLSPKVYNNEAWYNVIDDVDPHYLKHFKEFMGA
+                     QRDWQSNTKYGKPVQIKGGIPTIFLCNPGPNSSYKEYLEEEKNSALRTWAQRNAIFVT
+                     LQRPLYSGTHQSSAQDSEEEVQTEESGP"
+     gene            complement(2134..2653)
+                     /gene="AC4"
+     CDS             complement(2134..2436)
+                     /gene="AC4"
+                     /codon_start=1
+                     /product="AC4 protein"
+                     /protein_id="AFM77726.1"
+                     /translation="MGNLIYTCSSSSRGNTSARISDSSTWYPRPGQHISIRTFRELNP
+                     APTSSPTSTRTETHWSGETSRSTADLQEGASRQQTTLTQQHLTREASRKLLKYLGS"
+ORIGIN      
+        1 accggatggc cgcgcgattt ttttgtggtc cccatccact tatcaaccaa tcacatgtct
+       61 ccctcaaagt taaataacgc tcccgcccac tataagtact tagtcaccaa gttttagttt
+      121 gcaccatgtg ggatccactt ttgcacgatt tcccggagac tgtattcggg ttgagatgta
+      181 tgcttgcggt gaagtacctt cagcttgttg agcagtcgta ctctcccgac accctcggtt
+      241 acgatcttat tcgtgacctt atatccgtcg ttcgtgctcg taggtatgcc gaagcgacaa
+      301 gcagatatgc caatttcagt gcccggatgg aaagtacgcc gccggctgaa cttcgactcc
+      361 ccctacgctg cccgtgcagt tgtccctatt gtaaccggca tttcaaagtc aagggcgtgg
+      421 gccaacaggc cgatgaacag gaagcccagg atctatcgaa tgtacagaag cccggatgtt
+      481 cctaaggggt gtgaaggtcc gtgtaaggtc cagtcatttg agtctaggca tgatgtcgtt
+      541 cacattggta aagttatgtg cattagtgat gttactaggg gtaccggttt aactcatagg
+      601 gtcggtaagc gtttttgtgt taagtctgtt tacgttctgg gcaagatatg gatggatgaa
+      661 aacatcaaga ccaagaacca taccaacagc gtcatgttct tccttgtacg tgatcgtcgt
+      721 ccagtggaca agccccagga tttcggcgag gtattcaaca tgttcgataa tgagcccagt
+      781 acggctacgg ttaagaatat gcatcgtgac cgttaccagg ttcttcgtaa gtggcatgcc
+      841 acggtgaccg gtggtcagta cgcgtccaag gagcaagctc ttgtcaagaa atttgttagg
+      901 gttaataatt atgttgtgta taaccagcaa gaagctggca agtatgagaa tcatagtgag
+      961 aatgctttga tgttgtatat ggcatgtact catgcctcta accccgtgta tgctactcta
+     1021 aagatacgga tctatttcta cgattcggtc acaaattaat aaagatttaa ttttattatc
+     1081 attgaattgt ctacataaac tgtttgtgtc aatacattcc ataaaacatg attcacagct
+     1141 ctaattacat tgttgatact aattacaccc aaactatcaa gatatttcaa cacttgtgtt
+     1201 ctaaataccc ttaagaaacg accaatctga aggtgtgagt tcgtccagat gcggaaggtt
+     1261 aggaaacatt ggtgaatccc caatgctttc ctcaggttgt agttgaactg tattcgtgcc
+     1321 gttattatgt cgtggttcga caggaaaggc ctgctgtggt ggtctgtcat cctgaaatat
+     1381 aggggatttg gaaccgtcca gataaaggcg ccattctcgg cttgagctgc agtgatgaac
+     1441 tcccctgtgc gtaaatccat ggttgtggca ggaaattgct acgaagtagg agcagccgca
+     1501 ttcaaggtcc actctcctcc gtctgaactt cttcttcgct atcctgtgct gaactttgat
+     1561 gggtacctga gtagagtggg cgttggaggg tgacgaagat cgcatttctt tgggcccaag
+     1621 tccttagtgc gctgttcttt tcctcttcta ggtactcttt ataacttgaa ttgggccctg
+     1681 gattgcagag gaagattgtt gggatgccgc ctttaatttg aactggcttt ccgtactttg
+     1741 tgtttgattg ccagtccctt tgggccccca tgaattcttt aaagtgcttt agatagtgcg
+     1801 ggtctacgtc atcaatgacg ttgtaccacg cttcgttatt gtacactttc ggactcagat
+     1861 ctaaatggcc acataagtaa ttatgtggac ccaacgacct ggcccacatt gtcttccccg
+     1921 tccgactatc accttcaact actatactca ccggtctcaa gggccgcgca gcggcatcaa
+     1981 cgacgttctc gcatgcccac tcttcgagtt cttctgggac tcgatcaaaa gaagaagaag
+     2041 aaaaaggcga aatataaacc tccatgggag gctcaaaaat tctatctaaa tttgcattta
+     2101 aattatggaa ctgtaataca taatcttttg gggctagctc cctaagtatt ttaagagctt
+     2161 ccgacttgct tcccgcgtta agtgctgctg cgtaagcgtc gtttgctgtc tgctggcccc
+     2221 ctcttgcaga tctgccgtcg atctggaagt ctccccactc cagtgtgtct ccgtccttgt
+     2281 cgatgtagga cttgacgtcg gagctggatt tagctccctg aatgttcgga tggaaatgtg
+     2341 ctgacctggt cggggatacc aagtcgaaga atcgctgatt ctggcacttg tatttcccct
+     2401 cgaactggat gagcacgtgt agatgaggtt ccccattctc gtgaagctct ctgcagatct
+     2461 tgatgaattt tttatttgtt ggggtttcta agttttttaa ttgggaaagt gcttcttctt
+     2521 tggagaggga gcatttggga taagttataa aataattctt cgcatttatt tggaatctct
+     2581 tgggaggcat gttgactaaa ttgagtaccg attgaccctc tctggcaact ctctctagta
+     2641 aatgggtact cattatatag tgagtaccaa atggcactct cgtaattttt gagtgaaact
+     2701 caaaaatctc acgctccaaa agcggccatc cgtataatat t
+//

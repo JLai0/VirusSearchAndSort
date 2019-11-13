@@ -1,0 +1,95 @@
+LOCUS       KP153470                2164 bp ss-DNA     circular VRL 02-MAR-2016
+DEFINITION  Lake Sarah-associated circular virus-34 isolate LSaCV-34-LSGA-2013,
+            complete sequence.
+ACCESSION   KP153470
+VERSION     KP153470.1
+KEYWORDS    .
+SOURCE      Lake Sarah-associated circular virus-34
+  ORGANISM  Lake Sarah-associated circular virus-34
+            Viruses; unclassified viruses.
+REFERENCE   1  (bases 1 to 2164)
+  AUTHORS   Dayaram,A., Galatowitsch,M.L., Arguello-Astorga,G.R., van
+            Bysterveldt,K., Kraberger,S., Stainton,D., Harding,J.S.,
+            Roumagnac,P., Martin,D.P., Lefeuvre,P. and Varsani,A.
+  TITLE     Diverse circular replication-associated protein encoding viruses
+            circulating in invertebrates within a lake ecosystem
+  JOURNAL   Infect. Genet. Evol. 39, 304-316 (2016)
+   PUBMED   26873065
+REFERENCE   2  (bases 1 to 2164)
+  AUTHORS   Dayaram,A., Varsani,A. and Galatowitsch,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2014) School of Biological Sciences, University
+            of Canterbury, Private Bag 4800, Christchurch 8140, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNA Baser Sequence Assembler v. 4.16
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2164
+                     /organism="Lake Sarah-associated circular virus-34"
+                     /mol_type="genomic DNA"
+                     /isolate="LSaCV-34-LSGA-2013"
+                     /isolation_source="Potamopyrgus antipodarum"
+                     /db_xref="taxon:1685762"
+                     /country="New Zealand"
+                     /collection_date="2013"
+                     /note="identical sequence found in Physella acuta"
+     CDS             182..1012
+                     /codon_start=1
+                     /product="replication associated protein"
+                     /protein_id="ALE29733.1"
+                     /translation="MARKCWCFTLNNYTDDEYSAIIGRLPDLSRYYVVGVEVGDSGTK
+                     HLQGYASFRVAKRLNAVKDILSNRAHCEAARGSAGQNRKYCTKDGDFVEGGEVPKTTD
+                     KVTRNDLAKQFREAFAGGMSGVASFADEQPGTWFFSGHNLLRNTLTLMAPEPRPDISV
+                     RWIYGPPGVGKSRKAHEELPDAYIKEPRTKWWNGYYGEKTCILDDFGPGGIDINHLLR
+                     WFDRYKCLVENKGGMVPLLVSTFIVTSNFHPNQIFKFGEETHPQLPALERRITLEEME
+                     "
+     CDS             1272..2135
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="ALE29734.1"
+                     /translation="MARTHQTRKRSRPFVKSRRRVRRRTFKRRRRNAIVTTSRLLSAS
+                     NPFGYRGRRLSKKRYRSALWRDTLFKTHYRSIRSQSIALPIPNSNSGETVTFLQCFDT
+                     TDVTTFWKTLGGLEQANFSTGVPWDAGTTNPESITIRGGRLWISANNRSGQSESPRIR
+                     FQLVFLKGALRNSPDTGQSNSAWDYLTSVVAGIKPIGWDVTNAPDYSMYCHPPVLSKS
+                     FDFRADDTCDIFWKIKPVKIDTAAFTRGGGWFPVWFVTMSTHFDASTGSDDFKIQLGH
+                     NLSFAASDLSS"
+ORIGIN      
+        1 tagtattacc cacatcgcat tgtcagacgt acaacctcca gttcggggta tcgtctccag
+       61 ttcttttata ttttattccc acttgtattc ctatgtgcgt cagcgcttac gttaataaag
+      121 attcctttct ttctatttaa gctgttgttt tcctttatat atcattcata catccattac
+      181 tatggcacgc aagtgttggt gctttaccct caacaactat accgatgacg aatactcagc
+      241 cattatcggg agattaccag atctatctcg atactatgtc gtcggagttg aggtcggaga
+      301 ctctggaact aagcacctac aaggatacgc atcatttcga gtcgcgaagc gtcttaatgc
+      361 tgttaaggat atcctcagca atagggctca ttgcgaagca gctcgcggtt ctgcaggcca
+      421 gaatcgcaaa tactgcacta aagacggaga ctttgtcgag ggaggtgaag tcccaaaaac
+      481 aacagacaag gttactagaa atgacctcgc taaacaattc cgtgaggcat tcgccggagg
+      541 aatgtcaggg gttgcttcat tcgccgatga gcaacctgga acttggttct tctcaggaca
+      601 taacctgtta cgaaacactc tcaccctcat ggcaccagaa cccagaccgg acatctccgt
+      661 ccggtggatt tacgggcccc ctggggtagg taaatctcgc aaggcccacg aggaacttcc
+      721 tgatgcttac attaaagaac cacgtactaa gtggtggaat ggttattatg gggagaagac
+      781 ctgcattctc gacgattttg ggcctggtgg aattgatatt aatcatttac ttagatggtt
+      841 tgatcgttat aagtgtcttg ttgaaaacaa gggtggcatg gtgccattac ttgtcagtac
+      901 ttttattgtt actagtaatt ttcatcctaa tcagattttt aaatttggtg aggaaactca
+      961 cccgcaactt cccgctcttg agcgtaggat tacgctcgaa gagatggagt aatgtatcag
+     1021 tacttatcat tcaataaata actatttcta atattcgctt gtttgagagg cacgtgcgtg
+     1081 actcgagtca atacacatca ttaattaact gggacccgcg tagcccgggt ccggatggct
+     1141 tgcgcagcaa gcataacagg ccttactaat aatcctgggc gcagcccagg ttcatgggcc
+     1201 gcgcagcggt catatgctat aaatagaccc cgtagggatt acttgttatt caattgaacc
+     1261 caaagccctc tatggctagg acccatcaaa ctagaaaacg ttctcgtcct ttcgttaagt
+     1321 ctcgtcgtcg tgttcgacgt cgaactttca aacggcgtag acgtaatgca atcgttacca
+     1381 ctagcagatt acttagtgct tctaatcctt tcggttatcg aggtcgccgt ttatcgaaga
+     1441 agcgttatcg ttccgctcta tggcgtgata ctcttttcaa gactcactat cgttcaatcc
+     1501 ggtcgcagtc tattgccctt ccgattccta attcaaactc cggtgagact gttacttttc
+     1561 ttcaatgttt tgatactact gatgttacta cgttttggaa gacattagga ggccttgaac
+     1621 aggcaaactt tagtactggt gttccttggg atgctggtac tactaatcct gagtcaatta
+     1681 ctattagagg cggacgtttg tggatttctg ctaataaccg atccggtcag agtgagtcgc
+     1741 cacgtattcg gtttcaactg gtgtttctaa aaggagcgct tcgtaacagc cccgacactg
+     1801 gacaaagtaa ctccgcatgg gattacttga catccgttgt tgctggtatt aagcccattg
+     1861 gatgggacgt cacgaacgca ccagattact ccatgtactg ccatccacct gttctttcta
+     1921 agtcgtttga ttttagagca gacgatactt gtgacatatt ttggaagata aaacctgtga
+     1981 agatagatac tgccgcattt actagagggg gtggatggtt tcctgtttgg tttgttacta
+     2041 tgtctacgca ttttgatgca agcaccggtt cagatgattt caagattcaa cttgggcata
+     2101 acttgtcgtt cgccgcttcg gatcttagtt cttaatattt tattagtgta tgcgcgatgt
+     2161 ggta
+//

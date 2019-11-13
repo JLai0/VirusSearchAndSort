@@ -1,0 +1,73 @@
+LOCUS       NC_003380                220 bp ss-RNA     circular VRL 07-SEP-2016
+DEFINITION  Rice yellow mottle virus satellite, complete genome.
+ACCESSION   NC_003380
+VERSION     NC_003380.1
+DBLINK      BioProject: PRJNA14152
+KEYWORDS    RefSeq.
+SOURCE      Rice yellow mottle virus satellite
+  ORGANISM  Rice yellow mottle virus satellite
+            Viruses; Satellites; Satellite Nucleic Acids; Single stranded RNA
+            satellites; Circular single stranded RNA satellites.
+REFERENCE   1  (bases 1 to 220)
+  AUTHORS   Collins,R.F., Gellatly,D.L., Sehgal,O.P. and Abouhaidar,M.G.
+  TITLE     Self-cleaving circular RNA associated with rice yellow mottle virus
+            is the smallest viroid-like RNA
+  JOURNAL   Virology 241 (2), 269-275 (1998)
+   PUBMED   9499801
+REFERENCE   2  (bases 1 to 220)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 220)
+  AUTHORS   Collins,R.F., Gellatly,D.L., Sehgal,O.P. and AbouHaidar,M.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-DEC-1997) Botany, Univ. of Toronto, 25 Willcocks St.,
+            Toronto, Ont. M5S 3B2, Canada
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF039909.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Rice yellow mottle virus satellite"
+                     /mol_type="genomic RNA"
+                     /isolate="RYMV-I; RYMV-K"
+                     /db_xref="taxon:195056"
+     gene            join(164..220,1..55)
+                     /locus_tag="RYMV_satRNA_gp1"
+                     /db_xref="GeneID:932239"
+     misc_RNA        join(164..179,43..55)
+                     /locus_tag="RYMV_satRNA_gp1"
+                     /product="hammerhead ribozyme"
+                     /note="polarity (+) sense"
+                     /db_xref="GeneID:932239"
+     gene            1..220
+                     /locus_tag="RYMV_satRNA_gp2"
+                     /db_xref="GeneID:932238"
+     mRNA            join(49..220,1..220,1..49)
+                     /locus_tag="RYMV_satRNA_gp2"
+                     /product="mRNA formed by concatemerization of satelite RNA
+                     during replication"
+                     /db_xref="GeneID:932238"
+     CDS             join(49..220,1..220,1..49)
+                     /locus_tag="RYMV_satRNA_gp2"
+                     /experiment="COORDINATES:[25253891]"
+                     /experiment="EXISTENCE:[25253891]"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="YP_009272869.1"
+                     /db_xref="GeneID:932238"
+                     /translation="MSQEELGGTQEFHPGRPGRLGAVHRASLWSEPGLQGAWRRNRSV
+                     GTTRTISHRAPAASSCAGGGDFVSSLTDTDEPRGTWRHPGISPGSTWAARSRAQGVAV
+                     ERAWPPRGLEAKPVCWDHSDHQSSCSGSFQLRRGRRFCFEPYRH"
+     misc_feature    176^177
+                     /locus_tag="RYMV_satRNA_gp1"
+                     /experiment="COORDINATES:[9499801]"
+                     /experiment="DESCRIPTION:[9499801]"
+                     /note="hammerhead ribozyme self-cleavage site, polarity
+                     (+) sense"
+ORIGIN      
+        1 ccagctgcgc agggggcgga gattttgttt cgagccttac cgacactgat gagccaagag
+       61 gaacttggag gcacccagga atttcacccg ggtcgacctg ggcggctagg agccgtgcac
+      121 agggcgtcgc tgtggagcga gcctggcctc caaggggcct ggaggcgaaa ccggtctgtt
+      181 gggaccactc ggaccatcag tcatcgtgct ccggcagctt
